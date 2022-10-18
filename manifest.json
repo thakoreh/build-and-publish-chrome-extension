@@ -1,0 +1,11 @@
+{
+    "name": "Top Crypto Coins",
+    "version": "1.0.0",
+    "description": "This is an extension to fetch your favourite cryptocurrency price",
+    "manifest_version": 3,
+    "author": "Hiren T",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Top Crypto Coins"
+    }
+}
